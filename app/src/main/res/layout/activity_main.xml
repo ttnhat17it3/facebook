@@ -60,7 +60,7 @@
             android:layout_marginTop="100dp"
             android:layout_gravity="center"
 
-            android:text="@string/my_text"
+            android:text="@string/my_text" //hiển thị nội dung ở strings.xml kèm thẻ <u> để in nghiêng
             android:selectAllOnFocus="false"
             android:linksClickable="false"
             android:autoLink="all"
